@@ -113,6 +113,10 @@ export const certificates = [
     imageKey: "capstone-exhibit",
   },
   {
+    title: "OJT Cert of Completion",
+    imageKey: "ojt-cert",
+  },
+  {
     title: "Dean's Lister, 2nd Year – Second Honors",
     imageKey: "deans-lister-2nd",
     badgeOnly: true,

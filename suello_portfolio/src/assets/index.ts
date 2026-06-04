@@ -32,7 +32,8 @@ const certificateFilenameToKey: Record<string, string> = {
   "Advance Seminar Series Day 2": "advance-seminar-day2",
   "Tree Planting Cert": "tree-planting",
   "Capstone Project Exhibit 2026": "capstone-exhibit",
-  "Capstone Certificate of Completion": "capstone-deployment"
+  "Capstone Certificate of Completion": "capstone-deployment",
+  "OJT Cert of Completion": "ojt-cert"
 };
 
 export const certificateImages: Record<string, string> = {};
